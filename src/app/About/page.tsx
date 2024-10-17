@@ -11,7 +11,7 @@ const About = () => {
         <br />
         <br />
       <h1 className={CssStyle.h1}>About Me</h1>
-      <img src="/profile.jpg" alt="profile picture"/>
+      <img src="/images/profile.jpg" alt="profile picture"/>
       <p className={CssStyle.p}>Hi! I'm Saniya Kanwal, a passionate web developer with a love for creating clean, efficient, and user-friendly websites. I enjoy bringing ideas to life through code. I'm constantly learning and adapting to new technologies, particularly with frameworks like Next.js and React, to build scalable and responsive web applications.  working on personal projects, and helping others in the development community. Let's connect and create something amazing! </p>
       <br />
       <Footer/>
